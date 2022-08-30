@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-mahmud" /> </p>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p>I am a Web & Mobile Application Developer. Last Couple of years I am working on React Native & Successfully Submitted More than Seven Applications in markets.</p> <br />
-<p>I also completed lots of Web Applications with WordPress (CMS), Custom themes, Custom plugins. WordPress is just awesome.</p>
+<p>Hey, This is Rasel Mahmud from Bangladesh. I am a software engineer at <a href="https://monstar-lab.com/bd/" target="_blank" title="Monstarlab Bangladesh">Monstarlab Bangladesh</a> since 2019 as a Frontend engineer & before that I was a freelancer at different marketplace, especially on Upwork.</p> <br />
+<p>One of the greatest gifts I’ve ever gotten came from God, she call me daddy! I love my family & work.</p>
 
 - 👨‍💻 All of my projects are available at [https://rasel-portfolio.com](https://rasel-portfolio.com)
 
