@@ -4,12 +4,11 @@
 [![website][website-shield]][website-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<p align="left">
-  
 <img src="https://komarev.com/ghpvc/?username=rasel-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-mahmud" />
 </p>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+
+<p align="left">
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p>Hey, This is Rasel Mahmud from Bangladesh. I am a software engineer at <a href="https://monstar-lab.com/bd/" target="_blank" title="Monstarlab Bangladesh">Monstarlab Bangladesh</a> since 2019 as a Frontend engineer & before that I was a freelancer at different marketplace, especially on Upwork.</p> <br />
 <p>One of the greatest gifts I’ve ever gotten came from God, she call me daddy! Yes, I am a father of a cure daughter & I love my family & work.</p><br />
@@ -35,7 +34,7 @@
 [website-url]: https://rasel-portfolio.com
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://www.facebook.com/rasel.rs
-[mail-shield]: https://img.shields.io/badge/rasel.wp@gmail.com-brightgreen
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40rasel.wp@gmail.com-yellowgreen
 [mail-url]: mailto:rasel.wp@gmail.com
 [linkedin-url]: https://www.linkedin.com/in/rasel-wp/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
