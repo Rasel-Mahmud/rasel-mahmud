@@ -23,6 +23,7 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [website-shield] : https://img.shields.io/badge/Portfolio-Website-orange
 [website-url]: https://rasel-portfolio.com
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
@@ -31,3 +32,10 @@
 [mail-url]: mailto:rasel.wp@gmail.com
 [linkedin-url]: https://www.linkedin.com/in/rasel-wp/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
+[tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
+[htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
+[servericon-shield]: https://img.icons8.com/external-itim2101-flat-itim2101/28/undefined/external-server-network-technology-itim2101-flat-itim2101-2.png
+[rocketicon-shield]: https://img.icons8.com/arcade/30/undefined/experimental-rocket-arcade.png
+[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
+
