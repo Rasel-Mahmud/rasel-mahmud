@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashel</h1>
-<p align="left">
 
 [![mail][mail-shield]][mail-url]
 [![website][website-shield]][website-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<p align="left">
   
 <img src="https://komarev.com/ghpvc/?username=rasel-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-mahmud" />
 </p>
