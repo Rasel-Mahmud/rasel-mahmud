@@ -24,7 +24,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[website-shield] : https://img.shields.io/badge/Portfolio-Website-orange
+[website-shield]: https://img.shields.io/badge/Portfolio-Website-orange
 [website-url]: https://rasel-portfolio.com
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://www.facebook.com/rasel.rs
