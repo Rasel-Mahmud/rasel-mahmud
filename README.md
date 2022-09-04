@@ -35,7 +35,7 @@
 [website-url]: https://rasel-portfolio.com
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://www.facebook.com/rasel.rs
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-shield]: https://img.shields.io/badge/rasel.wp@gmail.com-brightgreen
 [mail-url]: mailto:rasel.wp@gmail.com
 [linkedin-url]: https://www.linkedin.com/in/rasel-wp/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
