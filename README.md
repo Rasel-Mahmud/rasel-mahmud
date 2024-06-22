@@ -6,9 +6,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <img src="https://komarev.com/ghpvc/?username=rasel-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-mahmud" />
 </p>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5616AQFmYNjz9ROIVg/profile-displaybackgroundimage-shrink_350_1400/0/1706015055001?e=1724284800&v=beta&t=Ox9TDJVs-jCVIfAaHDNBlj6jJ34aqdPVD1OR3sFn65g" />
-
-<p align="left">
+<img align="right" alt="coding" width="600" src="https://media.licdn.com/dms/image/D5616AQFmYNjz9ROIVg/profile-displaybackgroundimage-shrink_350_1400/0/1706015055001?e=1724284800&v=beta&t=Ox9TDJVs-jCVIfAaHDNBlj6jJ34aqdPVD1OR3sFn65g" />
+<br />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p>Hey, This is Rasel Mahmud from Bangladesh. I am a software engineer at <a href="https://monstar-lab.com/bd/" target="_blank" title="Monstarlab Bangladesh">Monstarlab Bangladesh</a> since 2019 as a Frontend engineer & before that I was a freelancer at different marketplace, especially on Upwork.</p> <br />
 <p>One of the greatest gifts I’ve ever gotten came from God, she call me daddy! Yes, I am a father of a cure daughter & I love my family & work.</p><br />
